@@ -1,0 +1,62 @@
+---
+title: "Milestone_2"
+author: "Michelle Kurilla"
+date: "9/24/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Gov 50 Project 1
+
+## Why This Project
+   
+   When looking through the projects from the past semester, I was initially 
+   drawn to Amy's final project on "Case Law Through the Years." 
+   This project, which similar to mine also focuses on case salience, presents 
+   an example to look to as I think about how I want to clean and filter my data 
+   from the same Supreme Courts opinion database (http://scdb.wustl.edu/). Amy 
+   also handled "bulk data" and had to write a function to extract the text 
+   of the cases from within a data frame in another data frame. 
+
+## Pros and Cons
+   
+  I found it impressive that Amy was able to include data from all 50 states. 
+I imagine it was an incredibly time-intensive undertaking to include
+   information at the local, state, appeals, and supreme court levels. The word
+   clouds were interesting, and the charts showed the distribution across the 
+   different courts. Though I think Amy did a wonderful job including such 
+   extensive data, I think it would be helpful to re-imagine how each state 
+   could be included on the page outside of default "dropdowns." I am drawn 
+   as a reader to more "open" page designs that flow naturally to the eyes. It 
+   would have been neat to see the charts embedded in the page with words 
+   explaining the narrative of the charts, or offering hypothesis and 
+   conclusions. (Also, this may have been an issue from my end, but I found that
+   the project kept disconnecting from the server.)
+
+## Gov 50 Project 2 
+
+## Why This Project
+
+I've always been particularly interested in which Harvard courses students take.
+I think the word "gem" thrown around for classes is interesting so I wanted to 
+see if my predicitions for which classes would have the highest enrollments
+would be correct. Though it deeply, deeply saddens me that humanities' 
+enrollment is on the decline, I am heartened that they have the highest number
+of courses offered.
+
+## Pros and Cons
+
+I liked how Jason explored the fastest growing departments in addition to 
+the biggest departments. I also appreciated the author's reasoning behind why
+they pursued the project. I would have liked to see the author of the project 
+use a more  consistent color scheme. Alternatively, it would have been neat to 
+see a "theme" of sorts. Similar to the first project I analyzed, I think it 
+would have interesting to see narratives and conclusions interwoven with the 
+charts as well. 
+
+## Repo
+
+https://github.com/mgkurilla/gov50-milestone-2.git
